@@ -34,6 +34,7 @@ An advanced AI chatbot interface built with **LangGraph**, supporting **Groq** a
 
 ## 📸 Preview
 
+![Uploading Screenshot 2025-04-14 at 1.11.55 PM.png…]()
 
 ---
 
