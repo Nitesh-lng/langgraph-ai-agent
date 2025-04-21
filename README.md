@@ -34,9 +34,6 @@ An advanced AI chatbot interface built with **LangGraph**, supporting **Groq** a
 
 ## 📸 Preview
 
-> Add a screenshot of your Streamlit UI in the `/assets` folder.
-
-![UI Preview](assets/preview.png)
 
 ---
 
